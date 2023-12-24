@@ -1,0 +1,10 @@
+{
+    "format": "S4RIS",
+    "is_private": "false",
+    "group_code": "",
+    "contest_id": "100092",
+    "as_manager": "true",
+    "api_key": "",
+    "api_secret": "",
+    "frozen_time": "60"
+}
